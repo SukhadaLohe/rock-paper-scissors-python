@@ -21,7 +21,7 @@ The computer randomly chooses, and the result is displayed.
 - Multi-line string art
 
 ## ✅ Sample Output
-
+<pre>
 What do you choose? Type 0 for Rock, 1 for Paper or 2 for Scissors
 0
 You chose Rock:
@@ -44,3 +44,4 @@ Computer chose Paper:
 ---.__________)
 
 You lose !!
+</pre>
